@@ -1,0 +1,18 @@
+.section__contact {
+  width: 60%;
+  margin: 0 auto;
+  &-info-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+
+  &-info-grid-item-title {
+    font-size: $fs-h2;
+  }
+  &-info-grid-item-para {
+    font-size: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
+}
