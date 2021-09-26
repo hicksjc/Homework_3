@@ -108,6 +108,10 @@ header {
 .section__home-intro-title {
   font-size: 2.25rem;
 }
+.section__home-intro-img {
+  width: 620px;
+  height: 750px;
+}
 .section__home--para {
   font-size: 1.5rem;
   margin-bottom: 1.5rem;
